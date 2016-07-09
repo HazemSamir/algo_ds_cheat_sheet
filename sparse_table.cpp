@@ -2,7 +2,7 @@ int ST[20][1 << 20];
 int lg2[1 << 20];
 
 inline int foo(int a, int b) {
-    // what ever associative function
+    // what ever associative function +, -, *, ^, |, &, min, max
 }
 
 void build(int n) {
